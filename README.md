@@ -28,3 +28,4 @@ Run commands:
 
 Your project folder will look like this:
 
+![result](https://user-images.githubusercontent.com/96500508/151426300-25790485-4a28-4a92-a830-12555ce75443.jpg)
